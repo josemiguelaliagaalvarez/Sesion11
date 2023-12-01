@@ -1,0 +1,236 @@
+2023-11-30T06:16:38.936-05:00  WARN 408 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=8h45m32s790ms953µs200ns).
+2023-11-30T06:36:03.068-05:00  WARN 408 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m53s931ms791µs800ns).
+2023-11-30T06:55:10.918-05:00  WARN 408 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m37s787ms917µs800ns).
+2023-11-30T07:19:48.899-05:00  WARN 408 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=8m37s754ms635µs400ns).
+2023-11-30T08:03:13.220-05:00  WARN 408 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=28m54s123ms739µs700ns).
+2023-11-30T08:36:53.249-05:00  WARN 408 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=29m39s962ms350µs700ns).
+2023-11-30T14:37:46.671-05:00  WARN 408 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h41m19s28ms997µs200ns).
+2023-11-30T15:33:51.565-05:00  WARN 408 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=56m4s937ms378µs800ns).
+2023-11-30T17:16:35.019-05:00  WARN 408 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h15m13s60ms161µs600ns).
+2023-11-30T19:46:31.162-05:00  INFO 408 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2023-11-30T19:46:31.290-05:00  INFO 408 --- [Thread-1] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-11-30T19:46:31.300-05:00  INFO 408 --- [Thread-1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2023-11-30T19:46:31.309-05:00  INFO 408 --- [Thread-1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2023-11-30T19:46:31.471-05:00  INFO 408 --- [restartedMain] e.cibertec.sesion11.Sesion11Application  : Starting Sesion11Application using Java 17.0.4.1 with PID 408 (D:\José\cibertec\LPII\202303\SesionV\WkspaceSesion5\Sesion11\target\classes started by jaliagaa in D:\José\cibertec\LPII\202303\SesionV\WkspaceSesion5\Sesion11)
+2023-11-30T19:46:31.471-05:00  INFO 408 --- [restartedMain] e.cibertec.sesion11.Sesion11Application  : No active profile set, falling back to 1 default profile: "default"
+2023-11-30T19:46:31.638-05:00  INFO 408 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-11-30T19:46:31.643-05:00  INFO 408 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 5 ms. Found 1 JPA repository interface.
+2023-11-30T19:46:31.740-05:00  INFO 408 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8082 (http)
+2023-11-30T19:46:31.740-05:00  INFO 408 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-11-30T19:46:31.740-05:00  INFO 408 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.16]
+2023-11-30T19:46:31.759-05:00  INFO 408 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-11-30T19:46:31.759-05:00  INFO 408 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 284 ms
+2023-11-30T19:46:31.783-05:00  INFO 408 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Starting...
+2023-11-30T19:46:31.792-05:00  INFO 408 --- [restartedMain] com.zaxxer.hikari.pool.HikariPool        : HikariPool-2 - Added connection com.mysql.cj.jdbc.ConnectionImpl@6da128d5
+2023-11-30T19:46:31.793-05:00  INFO 408 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Start completed.
+2023-11-30T19:46:31.795-05:00  INFO 408 --- [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-11-30T19:46:31.798-05:00  INFO 408 --- [restartedMain] o.h.c.internal.RegionFactoryInitiator    : HHH000026: Second-level cache disabled
+2023-11-30T19:46:31.802-05:00  INFO 408 --- [restartedMain] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
+2023-11-30T19:46:31.845-05:00  INFO 408 --- [restartedMain] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2023-11-30T19:46:31.845-05:00  INFO 408 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-11-30T19:46:31.901-05:00  WARN 408 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-11-30T19:46:32.009-05:00  WARN 408 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2023-11-30T19:46:32.020-05:00  INFO 408 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8082 (http) with context path ''
+2023-11-30T19:46:32.024-05:00  INFO 408 --- [restartedMain] e.cibertec.sesion11.Sesion11Application  : Started Sesion11Application in 0.605 seconds (process running for 252546.595)
+2023-11-30T19:46:32.025-05:00  INFO 408 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2023-11-30T19:46:39.516-05:00  INFO 408 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2023-11-30T19:46:39.526-05:00  INFO 408 --- [Thread-5] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-11-30T19:46:39.526-05:00  INFO 408 --- [Thread-5] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Shutdown initiated...
+2023-11-30T19:46:39.528-05:00  INFO 408 --- [Thread-5] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Shutdown completed.
+2023-11-30T19:46:39.592-05:00  INFO 408 --- [restartedMain] e.cibertec.sesion11.Sesion11Application  : Starting Sesion11Application using Java 17.0.4.1 with PID 408 (D:\José\cibertec\LPII\202303\SesionV\WkspaceSesion5\Sesion11\target\classes started by jaliagaa in D:\José\cibertec\LPII\202303\SesionV\WkspaceSesion5\Sesion11)
+2023-11-30T19:46:39.593-05:00  INFO 408 --- [restartedMain] e.cibertec.sesion11.Sesion11Application  : No active profile set, falling back to 1 default profile: "default"
+2023-11-30T19:46:39.687-05:00  INFO 408 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-11-30T19:46:39.692-05:00  INFO 408 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 4 ms. Found 1 JPA repository interface.
+2023-11-30T19:46:39.776-05:00  INFO 408 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8082 (http)
+2023-11-30T19:46:39.777-05:00  INFO 408 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-11-30T19:46:39.778-05:00  INFO 408 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.16]
+2023-11-30T19:46:39.799-05:00  INFO 408 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-11-30T19:46:39.800-05:00  INFO 408 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 207 ms
+2023-11-30T19:46:39.825-05:00  INFO 408 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-3 - Starting...
+2023-11-30T19:46:39.833-05:00  INFO 408 --- [restartedMain] com.zaxxer.hikari.pool.HikariPool        : HikariPool-3 - Added connection com.mysql.cj.jdbc.ConnectionImpl@5316b779
+2023-11-30T19:46:39.833-05:00  INFO 408 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-3 - Start completed.
+2023-11-30T19:46:39.834-05:00  INFO 408 --- [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-11-30T19:46:39.836-05:00  INFO 408 --- [restartedMain] o.h.c.internal.RegionFactoryInitiator    : HHH000026: Second-level cache disabled
+2023-11-30T19:46:39.838-05:00  INFO 408 --- [restartedMain] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
+2023-11-30T19:46:39.855-05:00  INFO 408 --- [restartedMain] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2023-11-30T19:46:39.855-05:00  INFO 408 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-11-30T19:46:39.903-05:00  WARN 408 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-11-30T19:46:39.967-05:00  WARN 408 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2023-11-30T19:46:39.974-05:00  INFO 408 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8082 (http) with context path ''
+2023-11-30T19:46:39.977-05:00  INFO 408 --- [restartedMain] e.cibertec.sesion11.Sesion11Application  : Started Sesion11Application in 0.4 seconds (process running for 252554.549)
+2023-11-30T19:46:39.978-05:00  INFO 408 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2023-11-30T19:54:10.116-05:00  INFO 408 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2023-11-30T19:54:10.127-05:00  INFO 408 --- [Thread-9] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-11-30T19:54:10.128-05:00  INFO 408 --- [Thread-9] com.zaxxer.hikari.HikariDataSource       : HikariPool-3 - Shutdown initiated...
+2023-11-30T19:54:10.132-05:00  INFO 408 --- [Thread-9] com.zaxxer.hikari.HikariDataSource       : HikariPool-3 - Shutdown completed.
+2023-11-30T19:54:10.200-05:00  INFO 408 --- [restartedMain] e.cibertec.sesion11.Sesion11Application  : Starting Sesion11Application using Java 17.0.4.1 with PID 408 (D:\José\cibertec\LPII\202303\SesionV\WkspaceSesion5\Sesion11\target\classes started by jaliagaa in D:\José\cibertec\LPII\202303\SesionV\WkspaceSesion5\Sesion11)
+2023-11-30T19:54:10.201-05:00  INFO 408 --- [restartedMain] e.cibertec.sesion11.Sesion11Application  : No active profile set, falling back to 1 default profile: "default"
+2023-11-30T19:54:10.365-05:00  INFO 408 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-11-30T19:54:10.371-05:00  INFO 408 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 5 ms. Found 1 JPA repository interface.
+2023-11-30T19:54:10.459-05:00  INFO 408 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8082 (http)
+2023-11-30T19:54:10.461-05:00  INFO 408 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-11-30T19:54:10.461-05:00  INFO 408 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.16]
+2023-11-30T19:54:10.493-05:00  INFO 408 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-11-30T19:54:10.494-05:00  INFO 408 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 292 ms
+2023-11-30T19:54:10.520-05:00  INFO 408 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-4 - Starting...
+2023-11-30T19:54:10.531-05:00  INFO 408 --- [restartedMain] com.zaxxer.hikari.pool.HikariPool        : HikariPool-4 - Added connection com.mysql.cj.jdbc.ConnectionImpl@42305afc
+2023-11-30T19:54:10.531-05:00  INFO 408 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-4 - Start completed.
+2023-11-30T19:54:10.532-05:00  INFO 408 --- [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-11-30T19:54:10.534-05:00  INFO 408 --- [restartedMain] o.h.c.internal.RegionFactoryInitiator    : HHH000026: Second-level cache disabled
+2023-11-30T19:54:10.536-05:00  INFO 408 --- [restartedMain] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
+2023-11-30T19:54:10.552-05:00  INFO 408 --- [restartedMain] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2023-11-30T19:54:10.552-05:00  INFO 408 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-11-30T19:54:10.613-05:00  WARN 408 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-11-30T19:54:10.712-05:00  WARN 408 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2023-11-30T19:54:10.722-05:00  INFO 408 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8082 (http) with context path ''
+2023-11-30T19:54:10.726-05:00  INFO 408 --- [restartedMain] e.cibertec.sesion11.Sesion11Application  : Started Sesion11Application in 0.544 seconds (process running for 253005.298)
+2023-11-30T19:54:10.727-05:00  INFO 408 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2023-11-30T19:55:25.010-05:00  INFO 408 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2023-11-30T19:55:25.020-05:00  INFO 408 --- [Thread-13] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-11-30T19:55:25.020-05:00  INFO 408 --- [Thread-13] com.zaxxer.hikari.HikariDataSource       : HikariPool-4 - Shutdown initiated...
+2023-11-30T19:55:25.025-05:00  INFO 408 --- [Thread-13] com.zaxxer.hikari.HikariDataSource       : HikariPool-4 - Shutdown completed.
+2023-11-30T19:55:25.086-05:00  INFO 408 --- [restartedMain] e.cibertec.sesion11.Sesion11Application  : Starting Sesion11Application using Java 17.0.4.1 with PID 408 (D:\José\cibertec\LPII\202303\SesionV\WkspaceSesion5\Sesion11\target\classes started by jaliagaa in D:\José\cibertec\LPII\202303\SesionV\WkspaceSesion5\Sesion11)
+2023-11-30T19:55:25.086-05:00  INFO 408 --- [restartedMain] e.cibertec.sesion11.Sesion11Application  : No active profile set, falling back to 1 default profile: "default"
+2023-11-30T19:55:25.171-05:00  INFO 408 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-11-30T19:55:25.178-05:00  INFO 408 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 6 ms. Found 1 JPA repository interface.
+2023-11-30T19:55:25.229-05:00  INFO 408 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8082 (http)
+2023-11-30T19:55:25.229-05:00  INFO 408 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-11-30T19:55:25.229-05:00  INFO 408 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.16]
+2023-11-30T19:55:25.246-05:00  INFO 408 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-11-30T19:55:25.246-05:00  INFO 408 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 158 ms
+2023-11-30T19:55:25.270-05:00  INFO 408 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-5 - Starting...
+2023-11-30T19:55:25.279-05:00  INFO 408 --- [restartedMain] com.zaxxer.hikari.pool.HikariPool        : HikariPool-5 - Added connection com.mysql.cj.jdbc.ConnectionImpl@58981669
+2023-11-30T19:55:25.279-05:00  INFO 408 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-5 - Start completed.
+2023-11-30T19:55:25.279-05:00  INFO 408 --- [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-11-30T19:55:25.282-05:00  INFO 408 --- [restartedMain] o.h.c.internal.RegionFactoryInitiator    : HHH000026: Second-level cache disabled
+2023-11-30T19:55:25.283-05:00  INFO 408 --- [restartedMain] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
+2023-11-30T19:55:25.299-05:00  INFO 408 --- [restartedMain] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2023-11-30T19:55:25.299-05:00  INFO 408 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-11-30T19:55:25.348-05:00  WARN 408 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-11-30T19:55:25.409-05:00  WARN 408 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2023-11-30T19:55:25.418-05:00  INFO 408 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8082 (http) with context path ''
+2023-11-30T19:55:25.422-05:00  INFO 408 --- [restartedMain] e.cibertec.sesion11.Sesion11Application  : Started Sesion11Application in 0.354 seconds (process running for 253079.994)
+2023-11-30T19:55:25.422-05:00  INFO 408 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2023-11-30T19:55:27.183-05:00  INFO 408 --- [RMI TCP Connection(2)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2023-11-30T19:55:27.192-05:00  INFO 408 --- [RMI TCP Connection(2)-127.0.0.1] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-11-30T19:55:27.193-05:00  INFO 408 --- [RMI TCP Connection(2)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-5 - Shutdown initiated...
+2023-11-30T19:55:27.194-05:00  INFO 408 --- [RMI TCP Connection(2)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-5 - Shutdown completed.
+2023-11-30T19:55:40.780-05:00  INFO 16788 --- [restartedMain] e.cibertec.sesion11.Sesion11Application  : Starting Sesion11Application using Java 17.0.4.1 with PID 16788 (D:\José\cibertec\LPII\202303\SesionV\WkspaceSesion5\Sesion11\target\classes started by jaliagaa in D:\José\cibertec\LPII\202303\SesionV\WkspaceSesion5\Sesion11)
+2023-11-30T19:55:40.782-05:00  INFO 16788 --- [restartedMain] e.cibertec.sesion11.Sesion11Application  : No active profile set, falling back to 1 default profile: "default"
+2023-11-30T19:55:40.815-05:00  INFO 16788 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-11-30T19:55:40.815-05:00  INFO 16788 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-11-30T19:55:41.264-05:00  INFO 16788 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-11-30T19:55:41.308-05:00  INFO 16788 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 36 ms. Found 1 JPA repository interface.
+2023-11-30T19:55:41.781-05:00  INFO 16788 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8082 (http)
+2023-11-30T19:55:41.791-05:00  INFO 16788 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-11-30T19:55:41.791-05:00  INFO 16788 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.16]
+2023-11-30T19:55:41.838-05:00  INFO 16788 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-11-30T19:55:41.838-05:00  INFO 16788 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1023 ms
+2023-11-30T19:55:41.938-05:00  INFO 16788 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2023-11-30T19:55:42.197-05:00  INFO 16788 --- [restartedMain] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@436d8078
+2023-11-30T19:55:42.200-05:00  INFO 16788 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2023-11-30T19:55:42.233-05:00  INFO 16788 --- [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-11-30T19:55:42.285-05:00  INFO 16788 --- [restartedMain] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.3.1.Final
+2023-11-30T19:55:42.318-05:00  INFO 16788 --- [restartedMain] o.h.c.internal.RegionFactoryInitiator    : HHH000026: Second-level cache disabled
+2023-11-30T19:55:42.511-05:00  INFO 16788 --- [restartedMain] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
+2023-11-30T19:55:43.178-05:00  INFO 16788 --- [restartedMain] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2023-11-30T19:55:43.181-05:00  INFO 16788 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-11-30T19:55:43.454-05:00  WARN 16788 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-11-30T19:55:43.706-05:00  WARN 16788 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2023-11-30T19:55:43.738-05:00  INFO 16788 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8082 (http) with context path ''
+2023-11-30T19:55:43.744-05:00  INFO 16788 --- [restartedMain] e.cibertec.sesion11.Sesion11Application  : Started Sesion11Application in 3.327 seconds (process running for 4.461)
+2023-11-30T19:56:00.993-05:00  INFO 16788 --- [http-nio-8082-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-11-30T19:56:00.994-05:00  INFO 16788 --- [http-nio-8082-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-11-30T19:56:00.995-05:00  INFO 16788 --- [http-nio-8082-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2023-11-30T20:17:17.378-05:00  INFO 16788 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (1 addition, 0 deletions, 0 modifications)
+2023-11-30T20:17:17.399-05:00  INFO 16788 --- [Thread-1] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-11-30T20:17:17.404-05:00  INFO 16788 --- [Thread-1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2023-11-30T20:17:17.415-05:00  INFO 16788 --- [Thread-1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2023-11-30T20:17:17.520-05:00  INFO 16788 --- [restartedMain] e.cibertec.sesion11.Sesion11Application  : Starting Sesion11Application using Java 17.0.4.1 with PID 16788 (D:\José\cibertec\LPII\202303\SesionV\WkspaceSesion5\Sesion11\target\classes started by jaliagaa in D:\José\cibertec\LPII\202303\SesionV\WkspaceSesion5\Sesion11)
+2023-11-30T20:17:17.522-05:00  INFO 16788 --- [restartedMain] e.cibertec.sesion11.Sesion11Application  : No active profile set, falling back to 1 default profile: "default"
+2023-11-30T20:17:17.705-05:00  INFO 16788 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-11-30T20:17:17.715-05:00  INFO 16788 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 8 ms. Found 1 JPA repository interface.
+2023-11-30T20:17:17.857-05:00  INFO 16788 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8082 (http)
+2023-11-30T20:17:17.858-05:00  INFO 16788 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-11-30T20:17:17.858-05:00  INFO 16788 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.16]
+2023-11-30T20:17:17.897-05:00  INFO 16788 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-11-30T20:17:17.897-05:00  INFO 16788 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 373 ms
+2023-11-30T20:17:17.940-05:00  INFO 16788 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Starting...
+2023-11-30T20:17:17.962-05:00  INFO 16788 --- [restartedMain] com.zaxxer.hikari.pool.HikariPool        : HikariPool-2 - Added connection com.mysql.cj.jdbc.ConnectionImpl@461f6db8
+2023-11-30T20:17:17.962-05:00  INFO 16788 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Start completed.
+2023-11-30T20:17:17.964-05:00  INFO 16788 --- [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-11-30T20:17:17.970-05:00  INFO 16788 --- [restartedMain] o.h.c.internal.RegionFactoryInitiator    : HHH000026: Second-level cache disabled
+2023-11-30T20:17:17.978-05:00  INFO 16788 --- [restartedMain] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
+2023-11-30T20:17:18.023-05:00  INFO 16788 --- [restartedMain] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2023-11-30T20:17:18.024-05:00  INFO 16788 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-11-30T20:17:18.122-05:00  WARN 16788 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-11-30T20:17:18.331-05:00  WARN 16788 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2023-11-30T20:17:18.353-05:00  INFO 16788 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8082 (http) with context path ''
+2023-11-30T20:17:18.362-05:00  INFO 16788 --- [restartedMain] e.cibertec.sesion11.Sesion11Application  : Started Sesion11Application in 0.872 seconds (process running for 1299.079)
+2023-11-30T20:17:18.369-05:00  INFO 16788 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2023-11-30T20:17:20.348-05:00  INFO 16788 --- [RMI TCP Connection(2)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2023-11-30T20:17:20.359-05:00  INFO 16788 --- [RMI TCP Connection(2)-127.0.0.1] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-11-30T20:17:20.361-05:00  INFO 16788 --- [RMI TCP Connection(2)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Shutdown initiated...
+2023-11-30T20:17:20.365-05:00  INFO 16788 --- [RMI TCP Connection(2)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Shutdown completed.
+2023-11-30T20:58:11.826-05:00  INFO 39256 --- [restartedMain] e.cibertec.sesion11.Sesion11Application  : Starting Sesion11Application using Java 17.0.4.1 with PID 39256 (D:\José\cibertec\LPII\202303\SesionV\WkspaceSesion5\Sesion11\target\classes started by jaliagaa in D:\José\cibertec\LPII\202303\SesionV\WkspaceSesion5\Sesion11)
+2023-11-30T20:58:11.829-05:00  INFO 39256 --- [restartedMain] e.cibertec.sesion11.Sesion11Application  : No active profile set, falling back to 1 default profile: "default"
+2023-11-30T20:58:11.880-05:00  INFO 39256 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-11-30T20:58:11.880-05:00  INFO 39256 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-11-30T20:58:12.504-05:00  INFO 39256 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-11-30T20:58:12.564-05:00  INFO 39256 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 51 ms. Found 2 JPA repository interfaces.
+2023-11-30T20:58:13.151-05:00  INFO 39256 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8082 (http)
+2023-11-30T20:58:13.162-05:00  INFO 39256 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-11-30T20:58:13.163-05:00  INFO 39256 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.16]
+2023-11-30T20:58:13.235-05:00  INFO 39256 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-11-30T20:58:13.235-05:00  INFO 39256 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1354 ms
+2023-11-30T20:58:13.391-05:00  INFO 39256 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2023-11-30T20:58:13.783-05:00  INFO 39256 --- [restartedMain] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2425c6d1
+2023-11-30T20:58:13.785-05:00  INFO 39256 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2023-11-30T20:58:13.850-05:00  INFO 39256 --- [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-11-30T20:58:14.054-05:00  INFO 39256 --- [restartedMain] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.3.1.Final
+2023-11-30T20:58:14.163-05:00  INFO 39256 --- [restartedMain] o.h.c.internal.RegionFactoryInitiator    : HHH000026: Second-level cache disabled
+2023-11-30T20:58:14.655-05:00  INFO 39256 --- [restartedMain] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
+2023-11-30T20:58:15.773-05:00  INFO 39256 --- [restartedMain] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2023-11-30T20:58:15.776-05:00  INFO 39256 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-11-30T20:58:16.191-05:00  WARN 39256 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-11-30T20:58:16.615-05:00  WARN 39256 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2023-11-30T20:58:16.667-05:00  INFO 39256 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8082 (http) with context path ''
+2023-11-30T20:58:16.676-05:00  INFO 39256 --- [restartedMain] e.cibertec.sesion11.Sesion11Application  : Started Sesion11Application in 5.235 seconds (process running for 6.182)
+2023-11-30T20:58:32.118-05:00  INFO 39256 --- [http-nio-8082-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-11-30T20:58:32.121-05:00  INFO 39256 --- [http-nio-8082-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-11-30T20:58:32.125-05:00  INFO 39256 --- [http-nio-8082-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 3 ms
+2023-11-30T21:00:12.875-05:00  INFO 39256 --- [RMI TCP Connection(2)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2023-11-30T21:00:12.888-05:00  INFO 39256 --- [RMI TCP Connection(2)-127.0.0.1] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-11-30T21:00:12.892-05:00  INFO 39256 --- [RMI TCP Connection(2)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2023-11-30T21:00:12.900-05:00  INFO 39256 --- [RMI TCP Connection(2)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2023-11-30T21:00:33.081-05:00  INFO 36992 --- [restartedMain] e.cibertec.sesion11.Sesion11Application  : Starting Sesion11Application using Java 17.0.4.1 with PID 36992 (D:\José\cibertec\LPII\202303\SesionV\WkspaceSesion5\Sesion11\target\classes started by jaliagaa in D:\José\cibertec\LPII\202303\SesionV\WkspaceSesion5\Sesion11)
+2023-11-30T21:00:33.083-05:00  INFO 36992 --- [restartedMain] e.cibertec.sesion11.Sesion11Application  : No active profile set, falling back to 1 default profile: "default"
+2023-11-30T21:00:33.113-05:00  INFO 36992 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-11-30T21:00:33.113-05:00  INFO 36992 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-11-30T21:00:33.514-05:00  INFO 36992 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-11-30T21:00:33.556-05:00  INFO 36992 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 37 ms. Found 2 JPA repository interfaces.
+2023-11-30T21:00:33.972-05:00  INFO 36992 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8082 (http)
+2023-11-30T21:00:33.982-05:00  INFO 36992 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-11-30T21:00:33.982-05:00  INFO 36992 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.16]
+2023-11-30T21:00:34.030-05:00  INFO 36992 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-11-30T21:00:34.031-05:00  INFO 36992 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 918 ms
+2023-11-30T21:00:34.126-05:00  INFO 36992 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2023-11-30T21:00:34.335-05:00  INFO 36992 --- [restartedMain] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@280bb8e7
+2023-11-30T21:00:34.338-05:00  INFO 36992 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2023-11-30T21:00:34.372-05:00  INFO 36992 --- [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-11-30T21:00:34.426-05:00  INFO 36992 --- [restartedMain] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.3.1.Final
+2023-11-30T21:00:34.466-05:00  INFO 36992 --- [restartedMain] o.h.c.internal.RegionFactoryInitiator    : HHH000026: Second-level cache disabled
+2023-11-30T21:00:34.675-05:00  INFO 36992 --- [restartedMain] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
+2023-11-30T21:00:35.362-05:00  INFO 36992 --- [restartedMain] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2023-11-30T21:00:35.364-05:00  INFO 36992 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-11-30T21:00:35.597-05:00  WARN 36992 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-11-30T21:00:35.824-05:00  WARN 36992 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2023-11-30T21:00:35.859-05:00  INFO 36992 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8082 (http) with context path ''
+2023-11-30T21:00:35.864-05:00  INFO 36992 --- [restartedMain] e.cibertec.sesion11.Sesion11Application  : Started Sesion11Application in 3.047 seconds (process running for 3.602)
+2023-11-30T21:00:58.065-05:00  INFO 36992 --- [http-nio-8082-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-11-30T21:00:58.065-05:00  INFO 36992 --- [http-nio-8082-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-11-30T21:00:58.066-05:00  INFO 36992 --- [http-nio-8082-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2023-11-30T21:06:06.130-05:00  INFO 36992 --- [RMI TCP Connection(2)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2023-11-30T21:06:06.144-05:00  INFO 36992 --- [RMI TCP Connection(2)-127.0.0.1] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-11-30T21:06:06.147-05:00  INFO 36992 --- [RMI TCP Connection(2)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2023-11-30T21:06:06.154-05:00  INFO 36992 --- [RMI TCP Connection(2)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
